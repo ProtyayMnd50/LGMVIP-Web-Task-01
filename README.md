@@ -33,4 +33,5 @@ Install dependencies :
 ```
 **Alert ! :** make sure you have node installed
 
+**See the app running at:** https://enchanting-puppy-2e2240.netlify.app/
 
